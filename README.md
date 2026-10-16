@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Rafael%20Liwu&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Estudar%20bem%20n%C3%A3o%20precisa%20ser%20complicado&descSize=20&descAlignY=58" width="100%" alt="Banner"/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=4FC3F7&center=true&vCenter=true&width=700&lines=Desenvolvedor+%26+criador+de+plataformas+de+estudo;8+sites+gratuitos+para+voc%C3%AA+gabaritar+o+ENEM;Educa%C3%A7%C3%A3o+acess%C3%ADvel+para+todos;Aprender+%C3%A9+o+melhor+c%C3%B3digo+que+existe" alt="Typing SVG" />
 </a>
