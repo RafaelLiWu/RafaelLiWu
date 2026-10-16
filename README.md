@@ -1,4 +1,6 @@
+
 <div align="center">
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=4FC3F7&center=true&vCenter=true&width=700&lines=Desenvolvedor+%26+criador+de+plataformas+de+estudo;8+sites+gratuitos+para+voc%C3%AA+gabaritar+o+ENEM;Educa%C3%A7%C3%A3o+acess%C3%ADvel+para+todos;Aprender+%C3%A9+o+melhor+c%C3%B3digo+que+existe" alt="Typing SVG" />
 </a>
@@ -27,97 +29,35 @@ Escolha uma disciplina abaixo e comece a estudar agora mesmo. 👇
 
 <div align="center">
 
-### 🔬 Ciências da Natureza
+<img src="assets/areas/natureza.svg" width="800" alt="CIÊNCIAS DA NATUREZA"/>
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://rafaelliwu.github.io/FisicaEnem/#/">
-        <img src="https://img.shields.io/badge/⚛️_FÍSICA-1565C0?style=for-the-badge" alt="Física"/>
-      </a>
-      <br/><sub>Mecânica, ondas, eletricidade,<br/>termologia e muito mais</sub>
-      <br/><br/>
-      <a href="https://rafaelliwu.github.io/FisicaEnem/#/"><b>Acessar →</b></a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://rafaelliwu.github.io/QuimicaEnem/#/">
-        <img src="https://img.shields.io/badge/🧪_QUÍMICA-6A1B9A?style=for-the-badge" alt="Química"/>
-      </a>
-      <br/><sub>Química geral, orgânica,<br/>físico-química e reações</sub>
-      <br/><br/>
-      <a href="https://rafaelliwu.github.io/QuimicaEnem/#/"><b>Acessar →</b></a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://rafaelliwu.github.io/BiologiaEnem/#/">
-        <img src="https://img.shields.io/badge/🧬_BIOLOGIA-2E7D32?style=for-the-badge" alt="Biologia"/>
-      </a>
-      <br/><sub>Citologia, genética, ecologia,<br/>fisiologia e evolução</sub>
-      <br/><br/>
-      <a href="https://rafaelliwu.github.io/BiologiaEnem/#/"><b>Acessar →</b></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://rafaelliwu.github.io/FisicaEnem/#/"><img src="assets/cards/fisica.svg" width="260" alt="Física"/></a>&nbsp;&nbsp;<a href="https://rafaelliwu.github.io/QuimicaEnem/#/"><img src="assets/cards/quimica.svg" width="260" alt="Química"/></a>&nbsp;&nbsp;<a href="https://rafaelliwu.github.io/BiologiaEnem/#/"><img src="assets/cards/biologia.svg" width="260" alt="Biologia"/></a>
+</p>
 
-### 📐 Matemática e suas Tecnologias
+<br/>
 
-<table>
-  <tr>
-    <td align="center" width="100%">
-      <a href="https://rafaelliwu.github.io/MatematicaEnem/#/">
-        <img src="https://img.shields.io/badge/📐_MATEMÁTICA-E65100?style=for-the-badge" alt="Matemática"/>
-      </a>
-      <br/><sub>Álgebra, geometria, funções, estatística,<br/>probabilidade e raciocínio lógico</sub>
-      <br/><br/>
-      <a href="https://rafaelliwu.github.io/MatematicaEnem/#/"><b>Acessar →</b></a>
-    </td>
-  </tr>
-</table>
+<img src="assets/areas/matematica.svg" width="800" alt="MATEMÁTICA E SUAS TECNOLOGIAS"/>
 
-### 🌍 Ciências Humanas e suas Tecnologias
+<p align="center">
+  <a href="https://rafaelliwu.github.io/MatematicaEnem/#/"><img src="assets/cards/matematica.svg" width="260" alt="Matemática"/></a>
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://rafaelliwu.github.io/GeografiaEnem/#/">
-        <img src="https://img.shields.io/badge/🗺️_GEOGRAFIA-00838F?style=for-the-badge" alt="Geografia"/>
-      </a>
-      <br/><sub>Geopolítica, meio ambiente,<br/>cartografia e sociedade</sub>
-      <br/><br/>
-      <a href="https://rafaelliwu.github.io/GeografiaEnem/#/"><b>Acessar →</b></a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://rafaelliwu.github.io/FilosofiaEnem/#/">
-        <img src="https://img.shields.io/badge/🏛️_FILOSOFIA-4E342E?style=for-the-badge" alt="Filosofia"/>
-      </a>
-      <br/><sub>Grandes pensadores, ética,<br/>política e teoria do conhecimento</sub>
-      <br/><br/>
-      <a href="https://rafaelliwu.github.io/FilosofiaEnem/#/"><b>Acessar →</b></a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://rafaelliwu.github.io/SociologiaEnem/#/">
-        <img src="https://img.shields.io/badge/👥_SOCIOLOGIA-C62828?style=for-the-badge" alt="Sociologia"/>
-      </a>
-      <br/><sub>Clássicos, cultura, desigualdade,<br/>cidadania e movimentos sociais</sub>
-      <br/><br/>
-      <a href="https://rafaelliwu.github.io/SociologiaEnem/#/"><b>Acessar →</b></a>
-    </td>
-  </tr>
-</table>
+<br/>
 
-### ✍️ Linguagens, Códigos e suas Tecnologias
+<img src="assets/areas/humanas.svg" width="800" alt="CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS"/>
 
-<table>
-  <tr>
-    <td align="center" width="100%">
-      <a href="https://rafaelliwu.github.io/PortuguesEnem/#/">
-        <img src="https://img.shields.io/badge/📖_PORTUGUÊS-AD1457?style=for-the-badge" alt="Português"/>
-      </a>
-      <br/><sub>Interpretação de texto, gramática, literatura,<br/>gêneros textuais e análise linguística</sub>
-      <br/><br/>
-      <a href="https://rafaelliwu.github.io/PortuguesEnem/#/"><b>Acessar →</b></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://rafaelliwu.github.io/GeografiaEnem/#/"><img src="assets/cards/geografia.svg" width="260" alt="Geografia"/></a>&nbsp;&nbsp;<a href="https://rafaelliwu.github.io/FilosofiaEnem/#/"><img src="assets/cards/filosofia.svg" width="260" alt="Filosofia"/></a>&nbsp;&nbsp;<a href="https://rafaelliwu.github.io/SociologiaEnem/#/"><img src="assets/cards/sociologia.svg" width="260" alt="Sociologia"/></a>
+</p>
+
+<br/>
+
+<img src="assets/areas/linguagens.svg" width="800" alt="LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS"/>
+
+<p align="center">
+  <a href="https://rafaelliwu.github.io/PortuguesEnem/#/"><img src="assets/cards/portugues.svg" width="260" alt="Português"/></a>
+</p>
 
 </div>
 
@@ -203,7 +143,6 @@ Cada site foi pensado e desenvolvido por mim com um objetivo simples: **tornar o
 > 💬 *Os sites de estudo são publicados via **GitHub Pages**, o que os mantém rápidos, estáveis e sem custo de hospedagem.*
 
 ---
-
 ## 📊 &nbsp;Estatísticas do GitHub
 
 <div align="center">
@@ -230,6 +169,7 @@ Encontrou um erro, tem uma sugestão de conteúdo ou quer ajudar a melhorar algu
 ---
 
 <div align="center">
+<br/>
 
 ### ⭐ Se algum material te ajudou, compartilhe com um amigo que também está estudando!
 
